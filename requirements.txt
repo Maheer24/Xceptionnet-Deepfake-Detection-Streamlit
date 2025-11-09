@@ -1,0 +1,9 @@
+streamlit
+tensorflow
+huggingface_hub
+transformers
+scikit-learn
+pillow
+numpy
+pandas 
+matplotlib

@@ -1,0 +1,57 @@
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+
+# Virtual environments
+venv/
+.env/
+.venv/
+*.env
+
+# Jupyter / Colab
+.ipynb_checkpoints/
+*.ipynb
+
+# TensorFlow / Keras model files and checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pb
+*.tflite
+saved_model/
+checkpoints/
+logs/
+events.out.tfevents*
+
+# Dataset and large files
+data/
+dataset/
+*.zip
+*.tar
+*.tar.gz
+*.csv
+*.jpg
+*.png
+*.jpeg
+*.mp4
+*.avi
+*.gif
+
+# Google Drive / Colab
+drive/
+MyDrive/
+
+# IDE / OS specific
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary or backup files
+*.log
+*.tmp
+*.bak

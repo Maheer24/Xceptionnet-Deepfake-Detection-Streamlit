@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&family=Comic+Neue:wght@700&display=swap');
+
+html,
+body,
+[class*="css"] {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #fff7fa;
+    color: #333;
+}
+
+.main-title {
+    font-family: 'Comic Neue', cursive;
+    color: #ff4fa3;
+    text-align: center;
+    font-size: 70px;
+}
+
+.subtitle {
+    text-align: center;
+    font-size: 1.1em;
+    color: #555;
+}
+
+.result-title {
+    color: #ff85b3;
+    font-size: 1.8em;
+    margin-top: 20px;
+}
+
+.prediction {
+    font-size: 2em;
+    text-align: center;
+    font-weight: bold;
+    color: #ff4fa3;
+}
+
+.confidence {
+    text-align: center;
+    font-size: 1.8em;
+    color: #444;
+}
+
+.metrics-title {
+    text-align: center;
+    margin-top: 25px;
+    color: #ff85b3;
+    font-weight: 600;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+    font-size: 0.9em;
+}
